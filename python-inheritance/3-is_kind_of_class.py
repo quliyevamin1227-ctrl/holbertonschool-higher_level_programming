@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module that checks if an object is an instance 
+"""Module that checks if an object is an instance
 of a class or inherited class."""
 
 
