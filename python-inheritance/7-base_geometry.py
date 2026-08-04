@@ -3,7 +3,7 @@
 
 
 class BaseGeometry:
-    """Represents base geometry."""
+    """BaseGeometry class."""
 
     def area(self):
         """Raises an exception."""
