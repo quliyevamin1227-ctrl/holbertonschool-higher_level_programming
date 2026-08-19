@@ -7,7 +7,7 @@ if (args.length < 2) {
 } else {
   args.sort((a, b) => b - a);
 
-  let biggest = args[0];
+  const biggest = args[0];
   let secondBiggest = null;
 
   for (const num of args) {
